@@ -18,14 +18,7 @@ export function Toggle() {
             sunt. Sapiente harum exercitationem, ex repellat deserunt ullam
             recusandae facilis dolorem labore, officia, eos enim ab sit
             veritatis! Consequatur accusamus illo et eaque cum obcaecati
-            incidunt? Dolorum cupiditate neque error commodi repudiandae alias
-            fugiat sapiente eligendi ratione et aliquam, ut nam officiis vel
-            doloremque illum. Delectus adipisci praesentium labore, iure
-            corporis consequatur obcaecati magni possimus optio quam, a
-            voluptates similique dolor voluptatem recusandae asperiores harum
-            voluptate. Asperiores harum dolorum sed earum, consectetur molestias
-            ut? Facilis sint qui ducimus molestias dicta hic fugiat porro
-            nesciunt eaque mollitia?
+            incidunt?
           </p>
         </Fade>
       </motion.div>

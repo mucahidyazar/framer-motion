@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 
 export const HeaderRight = styled.div`
   & > * {
@@ -16,10 +16,9 @@ export const Header = styled.header`
   background: var(--black);
   color: white;
   padding: 20px;
-  display: flex;
-  align-items: center;
   justify-content: space-between;
 
+  &,
   & ${HeaderRight}, & ${HeaderLeft} {
     display: flex;
     align-items: center;
@@ -32,6 +31,12 @@ export const Header = styled.header`
     margin: 0;
   }
   h1 {
+    font-size: 1.3rem;
+    padding: 0;
+    margin: 0;
+  }
+
+  a {
     font-size: 1rem;
   }
 `;
